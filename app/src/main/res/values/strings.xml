@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kolkata">Kolkata Tour</string>
+    <string name="history">History</string>
+    <string name="places">Places to visit</string>
+    <string name="food">Food</string>
+    <string name="culture">Culture</string>
+
+
+    <!-- History Strings -->
+    <string name="historyString1">Kolkata, \'The City of Joy\', formerly known as Calcutta, is one of India\'s largest cities. The city is housed on the east bank of the Hugli (Hooghly) River, which was once the main channel of the Ganges (Ganga) River, about 96 miles (154 km) upstream from the head of the Bay of Bengal.</string>
+    <string name="historyString2">Calcutta is an Anglicized version of the Bengali name Kalikata. According to some, \'Kalikata\' is derived from the Bengali word Kalikshetra, which means Ground of Kali (the goddess)</string>
+    <string name="historyString3">On June 20, 1756, Siraj-Ud-Daullah, who was the Nawab of Bengal, attacked the city and captured the Fort William which was fortified by East India Company earlier</string>
+    <string name="historyString4">Calcutta was re-captured by Robert Clive in 1757 when the British defeated Siraj-ud-daullah on the battle-field of Plassey</string>
+    <string name="historyString5">On August 24, 1686, Job Charnock, who was believed to be the founder of Calcutta first came to the village of Sutanuti as a representative of the British East India Company to establish a factory.</string>
+    <string name="historyString6">The city comprised three villages of Kalikat, Gobindapur and Sutanuti, which served as important trading centers in the 16th, 17th and 18th centuries.</string>
+    <string name="historyString7">In 1772, when Calcutta was announced as the capital of British India, Warren Hastings, the first and most famous of the British governor-general of India moved all important offices from Murshidabad, the former capital of Bengal during Mughal Period to Calcutta.</string>
+    <string name="historyString8">In 1911, the capital was shifted from Calcutta (now Kolkata) to Delhi and east and west Bengal were reunited.</string>
+    <string name="historyString9">In 1947, when India gained independence, the partition of Bengal took place and Calcutta became the capital city of the state of West Bengal in India</string>
+    <string name="historyString10">On January 1, 2001, Calcutta was officially renamed to Kolkata and August 24, 1686, has been celebrated as the foundation day of Kolkata before High Court order in 2003.</string>
+
+    <!-- Places to visit Strings -->
+    <string name="placesString1">VICTORIA MEMORIAL \nSpread over 57 acres of land, housing 21 lush green gardens, 28,394 artefacts, and 3,900 artistic paintings, Victoria memorial is one of the best places to visit in Kolkata. Built in the memory of Queen Victoria, this white marble beauty is a host to 20 lakhs annual visitors.</string>
+    <string name="placesString2">FORT WILLIAM \nSituated on the eastern banks of Hooghly river, Fort Williams is a huge building from the colonial era that has served multiple purposes till date.  Known as the ‘black hole of Calcutta’, this place was once a temporary jail where prisoners were hauled, but now it serves as the headquarters of the Eastern Command.</string>
+    <string name="placesString3">HOWRAH BRIDGE \nA Kolkata sightseeing tour is truly incomplete without visiting the ‘Harbour Bridge of India’, the Howrah Bridge. Titled as the ‘oldest but the busiest’ place in Kolkata, the Howrah Bridge was built over the Hooghly river to ensure connectivity between the two major cities of Kolkata and Howrah.</string>
+    <string name="placesString4">TAGORE\'S HOUSE \nKnown as the ‘Jorasanko Thakur Bari’, Tagore’s house is one of the most important historical places in Kolkata. The former residence of India’s most renowned literaries, Rabindranath Tagore, is now converted into a museum which houses a photo gallery, fascinating paintings, and Tagore’s literary works.</string>
+    <string name="placesString5">RABINDRA SAROVAR \nPreviously known as Dhakuria lake, Rabindra Sarovar is an artificial lake in Kolkata. It is one of the best places to visit in Kolkata if you are looking for a quiet, and peaceful time. </string>
+    <string name="placesString6">DAKHINESWAR \nLocated in the Dakshineswar town of Kolkata, the Dakshineswar Kali Temple is a popular pilgrimage site dedicated to Goddess Kali.It is one of the must visit places to visit in Kolkata in one day as one cannot afford to miss out on this architectural masterpiece which is also considered as one of the holiest places in the city.</string>
+    <string name="placesString7">ST. PAUL\'S CATHEDRAL \nKnown for its Gothic style of architecture, St. Paul’s Cathedral is the largest cathedral in Kolkata. Resembling closely to Norwich Cathedral,St Paul’s Cathedral is also one of the best places to visit in Kolkata for people seeking a religious tour.</string>
+    <string name="placesString8">BELUR MATH \nBelur Math is an important pilgrimage site, and the headquarters of Ramakrishna Math and Mission. It is one of the best places to visit in Kolkata for people who wish to seek inner peace. The tranquil surroundings, and architectural creativity make this place a hotspot of Kolkata tourism.</string>
+    <string name="placesString9">PRINCEP GHAT \nBuilt along the banks of the Hooghly river, during the British rule, Prinsep Ghat is a memorial inspired by Greek, and Gothic styles of architecture. It is one of the best places to visit in Kolkata at night as the setu becomes totally lit with dazzling lighting throughout the place. It is also a popular picnic spot where people can spend quality time with their family.</string>
+    <string name="placesString10">NICCO PARK \nOne of the best places to visit in Kolkata, Nicco Park is an exhilarating amusement park developed for the sole purpose of recreational activities for families. It is one of the oldest amusement parks in Kolkata that houses various adventurous, and fun filled rides for children as well as adults where they can spend some rejuvenating time with their families.</string>
+
+    <!-- Food Strings -->
+    <string name="foodString1">PHUCHKA \n If there’s some place in Calcutta where each and every phuchkawallah makes a phuchka to die for, it is this. Among other Kolkata street food, the papri chat, dum aloo phuchkas and dahi phuchkas here are to die for!</string>
+    <string name="foodString2">KATHI ROLL \n Did you know the now famous ‘Kathi Rolls’ were first invented in Kolkata? This shop called Zaika owns the credit to the delicious stuffing wrapped in thin roti that is now found in every city.</string>
+    <string name="foodString3">KOCHURI \n If you’re in Kolkata, your Kolkata Street Food experience will be incomplete if you don’t have Kochuri! The Kochuri or Radhabollobi, is one of its kind at Ganguram’s. To finish, simply wash it down with some amazing Mishti Doi, or treat yourself to their sweet nothings!</string>
+    <string name="foodString4">MISTI \n The dripping Roshogolla, thick Misti Doi, innumerable varieties of Sandesh, mouthfuls of Rasmalai, unmatched Rajbhog and the sweet Payesh; it is impossible to come to and not head for a sweetshop. Though these sweetmeats are found practically everywhere in Kolkata, Balaram Mullick and Radharam Mullick are nothing short of a brand when it comes to sweets in Kolkata. </string>
+    <string name="foodString5">MUTTON KABIRAJI \n  Head to Mitra café. Period. The Mutton Kabiraji cutlet here is to die for. Literally die for. It’s a filling of minced mutton wrapped in an egg net and deep-fried and is the very definition of a foodgasm for any non-vegetarian foodies!</string>
+    <string name="foodString6">FRUIT KULFI \nDid you really think Kulfis come in a regular shape, taste and size? Then you surely haven’t visited Camac Street’s most amazing Kulfiwallah! </string>
+    <string name="foodString7">GHOTI GOROM \n The honest-to-God, awesome union of chanachur, lemon juice and onion, is the Kolkata Street Food to have when you’re at Princep Ghat, walking along the river in all its serenity. That said, tea and all kinds of snacks at Princep Ghat are to die for and not to be missed.</string>
+    <string name="foodString8">KOSHA MANGSHO \n Served with steamed rice, luchi (puri) and parothas, this mouth-watering, velvety gravy with juicy pieces of meat, is every meat lover\'s paradise. A must-have!</string>
+    <string name="foodString9">TIBETIAN FOOD \n A fascinating street with tempting Tibetan food! Even if you\'ve had Tibetan food in the past, the flavors that this street displays are truly one of a kind.</string>
+    <string name="foodString10">CHELO KEBAB \n Every true blue Kolkatan would recommend this platter of kebabs and for a reason. It\'s a composition of mutton seekhs along with chicken kebabs and is served with steamed rice and veggies. Why don\'t you surprise yourself with a plate?</string>
+
+    <!-- Culture Strings -->
+    <string name="cultureString1">PEOPLE \n Kolkata is the origin of cultural and tradition heritage. The citizen of Kolkata invites the people with affectionate welcome. Their affection inspires the tourist, to come again and again. The Bengalis used to get up in the early mornings and they involve themselves with cultural mediation.  </string>
+    <string name="cultureString2">LANGUAGE \n Kolkata is integrated with many languages, this stands as an example for their unity in diversity. Most of the peoples are under the Bengali language. In addition that languages Gujarati, Oriya, Urdu even Tamil are widely open in that state. Tourist can prefer the Hindi and English languages for better communication. </string>
+    <string name="cultureString3">RELIGION \n Muslims and Hindus are living here without any breakup. The Majority of populations in this state are Hindus followed by Muslims, Christians, Buddhists, Sikhs and many.</string>
+    <string name="cultureString4">ARTS AND CRAFTS \n Kolkata is famous for its wall painting, fancy dolls and many. The Terracotta slabs and metal works are superior in this state. The ornaments with precious stones are the sample for its unique craft work. In this city, most of the things are made up of bamboo.</string>
+    <string name="cultureString5">LOCAL FESTIVAL \n Since this city is embraced with numerous religious, people are celebrating many festivals. Among that, Durga Pooja is one the famous carnival. Most of the tourists are coming here to celebrate this festival with drumbeats.  Dol Purnima indicates the devoted welcome to spring season.</string>
+    <string name="cultureString6">LITERATURE \n Bengali prose became modern courtesy of Ishwar Chandra Vidyasagar. The doyens of nineteenth century Bengali literature like Rabindranath Tagore, Michael Madhusudan Dutt, Kazi Nazrul Islam were from Kolkata. </string>
+    <string name="cultureString7">CINEMA \n While Mumbai is the capital of commercial cinemas in India, Kolkata is the house of art-films. Stalwarts like Satyajit Ray, Ritwik Ghatak, Mrinal Sen are the pride of Kolkata. The biggest event of Indian cinema was the release of Pather Panchali in 1955 made by Satyajit Ray based on a novel of Bibhutibhusan Banerjee.  </string>
+    <string name="cultureString8">SPORTS \n The people of Kolkata are famous for being sports lovers. Cricket and football can easily be called the life blood of the city. The home town of Eden Gardens (headquarters of CAB), the city can boast of an impartial crowd of cricket lovers who cheer for good cricket even when their side is losing.  </string>
+    <string name="cultureString9">ATTIRES \n The males usually wear western garments like pants and shirts, rather than the traditional dhoti and kurtas. Females are usually seen in the traditional sarees and salwar kameez. Females are also gradually taking up more and more Western wear, with jeans and skirts predominating in the college campuses, as well as in the streets.</string>
+    <string name="cultureString10">MUSIC AND DANCE \n Rabindra Sangeet, Rabindra Nritya Natya (songs and song-dance sequences composed by Tagore) and Nazrul Geeti (songs by Kazi Nazrul Islam) are integral part of Kolkata as well as Bengali life. Songs by other poets like Dwijendralal Roy, Atulprasad are also famous.</string>
+
+
+
+
+</resources>
